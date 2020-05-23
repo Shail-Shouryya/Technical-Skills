@@ -4,27 +4,25 @@
 - [techie delight](https://www.techiedelight.com/)
 - [hacker earth notes](https://www.hackerearth.com/practice/notes/) - [hacker earth](https://www.hackerearth.com/practice/)
 
-# Useful YouTube Channels
-## General
+# General
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge)
 - [Derek Banas](https://www.youtube.com/user/derekbanas)
 - [edureka!](https://www.youtube.com/user/edurekaIN)
 
-## Project Based
+# Project Based
 - [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 
-## Mainly Python
+# Mainly Python
 - [Corey Schafer](https://www.youtube.com/user/schafer5)
 - [sentdex](https://www.youtube.com/user/sentdex)
 - [Sebastiaan Mathôt](https://www.youtube.com/user/ceebassmusic) - Psychologist with an interest in CS (mostly Python)
--
 
-## General Web
+# General Web
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
-## Data Structures & Algorithms/Competitive Programming
+# Data Structures & Algorithms/Competitive Programming
 - [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 - [Back to Back to SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
