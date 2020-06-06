@@ -10,19 +10,31 @@
 - [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge)
 - [Derek Banas](https://www.youtube.com/user/derekbanas)
 - [edureka!](https://www.youtube.com/user/edurekaIN)
+- [Telusko](https://www.youtube.com/user/javaboynavin/playlists)
+- [Clever Techie](https://www.youtube.com/channel/UC1WxZFhq56xs1oxXH-XveSQ/videos)
+- [Computer Science](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA) (YouTube channel)
+- [Next Day Video](https://www.youtube.com/user/NextDayVideo/videos)
+- [Deege U](https://www.youtube.com/channel/UCBy9lNSc8YxE0ggzVQCby2g)
 
 # Project Based
 - [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+- [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
+- [sentdex](https://www.youtube.com/user/sentdex)
 
 # Mainly Python
 - [Corey Schafer](https://www.youtube.com/user/schafer5)
 - [sentdex](https://www.youtube.com/user/sentdex)
 - [Sebastiaan Mathôt](https://www.youtube.com/user/ceebassmusic) - Psychologist with an interest in CS (mostly Python)
+- [SF Python](https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw/videos)
+- [PyCon2018](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos)
+- [PyOhio](https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ)
+- [PyData](https://www.youtube.com/user/PyDataTV/featured)
 
 # General Web
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [WebConcepts](https://www.youtube.com/user/jelledTV/videos)
 
-# Data Structures & Algorithms/Competitive Programming
+# Data Structures & Algorithms/Competitive Programming/Technical Overview
 - [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 - [Back to Back to SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
@@ -39,3 +51,13 @@
 
 # Automation
 - https://theautomatic.net/
+
+# Advanced topics
+## System Design
+- [Success in Tech](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) YouTube playlist
+- [Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+
+
+# Standalone
+- [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) - YouTube, James Quigley; Nov 7, 2017
+- [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) - [Devoxx Poland](https://www.youtube.com/channel/UCAu3kLPVR1KScr5BReBJTvg); Aug 1, 2017
