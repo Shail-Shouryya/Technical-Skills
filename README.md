@@ -56,6 +56,26 @@
 - [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) - YouTube, James Quigley; Nov 7, 2017
 - [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) - [Devoxx Poland](https://www.youtube.com/channel/UCAu3kLPVR1KScr5BReBJTvg); Aug 1, 2017
 
+### Practice
+- [Katacode](https://www.katacoda.com/)
+- [BitDegree](https://www.bitdegree.org/)
+- [scotch](https://scotch.io/)
+- [Binary Search](https://binarysearch.io/)
+- [LeetCode](https://leetcode.com/)
+- [Project Euler](https://projecteuler.net/)
+- [Code Chef](https://www.codechef.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [Coderbyte](https://www.coderbyte.com/)
+- [Exercism](https://exercism.io/)
+- [Code Wars](https://www.codewars.com/)
+- [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
+- [CodinGame](https://www.codingame.com/servlet/urlinvite?u=3850863) - this is pretty fun :)
+- [pramp](https://www.pramp.com/invt/mGZVJBAy4wuBrqPdLmA2)
+- [InterviewBit](https://www.interviewbit.com/invite/dahbdf))
+- [CheckiO](https://checkio.org/)
+
+
 ### Advanced topics
 #### Operating Systems
 - [study tonight](https://www.studytonight.com/operating-system/)
