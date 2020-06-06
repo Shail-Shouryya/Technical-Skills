@@ -42,7 +42,7 @@
 - [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/)
 - [GeeksforGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ)
 - [Knowledge Center](https://www.youtube.com/channel/UCMn3_305DqmTylxJPFA8OJA)
-  - also has lots of other technical informatin
+  - also has lots of other technical information
 - [IDeserve](https://www.youtube.com/channel/UCMNkvKnD3mo3Jj9eTwJllWw)
 - [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 
@@ -52,12 +52,20 @@
 # Automation
 - https://theautomatic.net/
 
-# Advanced topics
-## System Design
-- [Success in Tech](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) YouTube playlist
-- [Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
-
-
 # Standalone
 - [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) - YouTube, James Quigley; Nov 7, 2017
 - [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) - [Devoxx Poland](https://www.youtube.com/channel/UCAu3kLPVR1KScr5BReBJTvg); Aug 1, 2017
+
+# Advanced topics
+## Operating Systems
+- [study tonight](https://www.studytonight.com/operating-system/)
+- [tutorialspoint](https://www.tutorialspoint.com/operating_system/os_quick_guide.htm)
+- [w3schools](https://www.w3schools.in/operating-system-tutorial/intro/)
+- [guru99](https://www.guru99.com/operating-system-tutorial.html)
+- [geeksforgeeks](https://www.geeksforgeeks.org/operating-systems/)
+- [javatpoint](https://www.javatpoint.com/os-tutorial)
+
+
+## System Design
+- [Success in Tech](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) YouTube playlist
+- [Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
