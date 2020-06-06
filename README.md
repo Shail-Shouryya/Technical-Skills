@@ -1,10 +1,10 @@
-# Understanding Data Structures and Algorithms
+### Understanding Data Structures and Algorithms
 - [tutorials point](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 - [algorithms tutorial horizon](https://algorithms.tutorialhorizon.com/site-map/)
 - [techie delight](https://www.techiedelight.com/)
 - [hacker earth notes](https://www.hackerearth.com/practice/notes/) - [hacker earth](https://www.hackerearth.com/practice/)
 
-# General
+### General
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge)
@@ -16,12 +16,12 @@
 - [Next Day Video](https://www.youtube.com/user/NextDayVideo/videos)
 - [Deege U](https://www.youtube.com/channel/UCBy9lNSc8YxE0ggzVQCby2g)
 
-# Project Based
+### Project Based
 - [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 - [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
 - [sentdex](https://www.youtube.com/user/sentdex)
 
-# Mainly Python
+### Mainly Python
 - [Corey Schafer](https://www.youtube.com/user/schafer5)
 - [sentdex](https://www.youtube.com/user/sentdex)
 - [Sebastiaan Mathôt](https://www.youtube.com/user/ceebassmusic) - Psychologist with an interest in CS (mostly Python)
@@ -30,11 +30,11 @@
 - [PyOhio](https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ)
 - [PyData](https://www.youtube.com/user/PyDataTV/featured)
 
-# General Web
+### General Web
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [WebConcepts](https://www.youtube.com/user/jelledTV/videos)
 
-# Data Structures & Algorithms/Competitive Programming/Technical Overview
+### Data Structures & Algorithms/Competitive Programming/Technical Overview
 - [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 - [Back to Back to SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
@@ -46,18 +46,18 @@
 - [IDeserve](https://www.youtube.com/channel/UCMNkvKnD3mo3Jj9eTwJllWw)
 - [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 
-# Python Resources
+### Python Resources
 - [Advanced Topics with Python](https://www.python-course.eu/advanced_topics.php) - [python course](https://www.python-course.eu/index.php)
 
-# Automation
+### Automation
 - https://theautomatic.net/
 
-# Standalone
+### Standalone
 - [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) - YouTube, James Quigley; Nov 7, 2017
 - [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) - [Devoxx Poland](https://www.youtube.com/channel/UCAu3kLPVR1KScr5BReBJTvg); Aug 1, 2017
 
-# Advanced topics
-## Operating Systems
+### Advanced topics
+#### Operating Systems
 - [study tonight](https://www.studytonight.com/operating-system/)
 - [tutorialspoint](https://www.tutorialspoint.com/operating_system/os_quick_guide.htm)
 - [w3schools](https://www.w3schools.in/operating-system-tutorial/intro/)
@@ -66,6 +66,6 @@
 - [javatpoint](https://www.javatpoint.com/os-tutorial)
 
 
-## System Design
+#### System Design
 - [Success in Tech](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) YouTube playlist
 - [Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
