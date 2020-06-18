@@ -72,8 +72,10 @@
 - [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
 - [CodinGame](https://www.codingame.com/servlet/urlinvite?u=3850863) - this is pretty fun :)
 - [pramp](https://www.pramp.com/invt/mGZVJBAy4wuBrqPdLmA2)
-- [InterviewBit](https://www.interviewbit.com/invite/dahbdf))
+- [InterviewBit](https://www.interviewbit.com/invite/dahbdf)
 - [CheckiO](https://checkio.org/)
+- [halite](https://halite.io/)
+-
 
 
 ### Advanced topics
