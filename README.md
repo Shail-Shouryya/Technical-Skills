@@ -5,6 +5,7 @@
 - [hacker earth notes](https://www.hackerearth.com/practice/notes/) - [hacker earth](https://www.hackerearth.com/practice/)
 
 ### General
+- [freeCodeCamp](https://www.freecodecamp.org/learn/) ([articles here](https://www.freecodecamp.org/news/))
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge)
