@@ -92,8 +92,18 @@
 #### System Design
 - [Success in Tech](https://www.youtube.com/watch?v=0163cssUxLA&list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) YouTube playlist
 - [Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
-
+- [Think Software](https://www.youtube.com/channel/UCVa66dAkbs60_A0P52Yjj7Q)
+- [Data Savvy](https://www.youtube.com/channel/UCoVVyUViJ3mfaEKVjAJSnVA)
+- [Keep on Coding](https://www.youtube.com/channel/UCsLo154Krjwhoz8W00N8ItA)
+- [High Scalability](http://highscalability.com/)
+- []
+- https://github.com/lei-hsia/grokking-system-design
 
 #### DevOps
 - [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) - YouTube, [James Quigley](https://www.youtube.com/channel/UCBLK4r69Z_cRr087Jfvt0WQ); Nov 7, 2017
 - [KodeKloud](https://www.youtube.com/channel/UCSWj8mqQCcrcBlXPi4ThRDQ)
+
+
+## Science
+- [nautil](http://nautil.us/)
+- https://wccftech.com/
