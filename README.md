@@ -107,3 +107,5 @@
 ## Science
 - [nautil](http://nautil.us/)
 - https://wccftech.com/
+- [neo](https://www.youtube.com/channel/UCtYKe7-XbaDjpUwcU5x0bLg)
+- [Wonder World](https://www.youtube.com/channel/UC0k173Oca1nPZurW2ITHlYw)
