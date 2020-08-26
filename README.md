@@ -36,6 +36,7 @@
 - [WebConcepts](https://www.youtube.com/user/jelledTV/videos)
 
 ### Data Structures & Algorithms/Competitive Programming/Technical Overview
+- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/featured)
 - [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 - [Back to Back to SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
