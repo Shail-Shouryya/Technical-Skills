@@ -30,6 +30,7 @@
 - [PyCon2018](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos)
 - [PyOhio](https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ)
 - [PyData](https://www.youtube.com/user/PyDataTV/featured)
+- [PyLenin](https://www.youtube.com/channel/UC2HIN53hM4_ZW8IdmWrJGtw)
 
 ### General Web
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
