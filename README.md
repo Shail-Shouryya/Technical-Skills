@@ -23,6 +23,13 @@
 - [sentdex](https://www.youtube.com/user/sentdex)
 
 ### Mainly Python
+<details>
+  <summary><b>Official documentation</b></summary>
+
+- [python3 Beginner Tutorials](https://www.youtube.com/playlist?list=PL1A2CSdiySGJd0LJRRSwQZbPZaDP0q67j) - Playlist
+- [Python Documentation](https://docs.python.org/3/)
+- [The Python Standard Library](https://docs.python.org/3/library/index.html)
+</details>
 - [Corey Schafer](https://www.youtube.com/user/schafer5)
 - [sentdex](https://www.youtube.com/user/sentdex)
 - [Sebastiaan Mathôt](https://www.youtube.com/user/ceebassmusic) - Psychologist with an interest in CS (mostly Python)
