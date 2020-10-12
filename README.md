@@ -30,6 +30,7 @@
 - [Python Documentation](https://docs.python.org/3/)
 - [The Python Standard Library](https://docs.python.org/3/library/index.html)
 </details>
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Corey Schafer](https://www.youtube.com/user/schafer5)
 - [sentdex](https://www.youtube.com/user/sentdex)
 - [Sebastiaan Mathôt](https://www.youtube.com/user/ceebassmusic) - Psychologist with an interest in CS (mostly Python)
