@@ -34,6 +34,7 @@
 - [learnxinyminutes](https://learnxinyminutes.com/docs/python/) Where X=Python
 - https://www.learnpython.org/
 - [The Python Tutorial](https://docs.python.org/3/tutorial/)
+- [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/html/index.html)
 - [Corey Schafer](https://www.youtube.com/user/schafer5)
 - [sentdex](https://www.youtube.com/user/sentdex)
 - [Sebastiaan Mathôt](https://www.youtube.com/user/ceebassmusic) - Psychologist with an interest in CS (mostly Python)
