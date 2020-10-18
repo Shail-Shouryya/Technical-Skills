@@ -17,6 +17,7 @@
 - [Next Day Video](https://www.youtube.com/user/NextDayVideo/videos)
 - [Deege U](https://www.youtube.com/channel/UCBy9lNSc8YxE0ggzVQCby2g)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [Code Ranch](https://coderanch.com/)
 
 ### Project Based
 - [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
