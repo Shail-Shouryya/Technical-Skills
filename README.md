@@ -18,6 +18,7 @@
 - [Deege U](https://www.youtube.com/channel/UCBy9lNSc8YxE0ggzVQCby2g)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [Code Ranch](https://coderanch.com/)
+- [Tech Academy](https://www.youtube.com/channel/UCGp1zoGrCqT54f32L6tGgqg)
 
 ### Project Based
 - [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
