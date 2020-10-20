@@ -19,6 +19,7 @@
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [Code Ranch](https://coderanch.com/)
 - [Tech Academy](https://www.youtube.com/channel/UCGp1zoGrCqT54f32L6tGgqg)
+- [simplefunde](https://www.youtube.com/channel/UC0ob0iy_DRTyL00IsgSMzgw/videos)
 
 ### Project Based
 - [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
